@@ -9,7 +9,7 @@ void reverse() {
         n /= 10;
     }
     printf("Reversed number = %d\n", rev);
-    //return 0;
+    return 0;
 }
 
 
